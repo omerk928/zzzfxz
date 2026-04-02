@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Speak With Emma",
+  "description": "Practice your English speaking skills with Emma, a realistic AI conversation partner.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
